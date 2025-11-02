@@ -79,7 +79,7 @@ export const ServicesSection = () => {
               </p>
               <Button 
                 variant="ghost" 
-                className="p-1 h-auto font-semibold text-primary group-hover:gap-2 transition-all"
+                className="p-2 h-auto font-semibold text-primary group-hover:gap-2 transition-all"
                 onClick={() => handleLearnMore(service.title)}
               >
                 Learn More
