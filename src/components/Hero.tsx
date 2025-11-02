@@ -55,7 +55,7 @@ export const Hero = () => {
 
             <div className="flex items-center gap-8 pt-8">
               <div>
-                <div className="text-3xl font-bold text-primary">500+</div>
+                <div className="text-3xl font-bold text-primary">50+</div>
                 <div className="text-sm text-muted-foreground">Businesses Served</div>
               </div>
               <div className="h-12 w-px bg-border" />
